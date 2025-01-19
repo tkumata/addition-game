@@ -1,0 +1,10 @@
+[package]
+name = "addition-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+clap = "4.5.26"
+rodio = "0.20.1"
+termion = "4.0.3"
